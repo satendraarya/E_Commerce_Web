@@ -36,6 +36,7 @@
 
 .env.production.local
 
+# Ignore .env file
 .env
 
  
