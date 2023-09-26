@@ -36,7 +36,7 @@ mongoose
 // app.use(express.json());
 // app.use("/api", router);
 
-// mongoose.connect("mongodb+srv://satendraaaya:Satendraarya123@cluster0.ffnuhjy.mongodb.net/?retryWrites=true&w=majority")
+// mongoose.connect("")
 // .then(() => {
 //     app.listen(5050);
 //     console.log("Database is connected! lestening to localhost 5050");
@@ -46,8 +46,3 @@ mongoose
 
 
 
-// userName:- satendraarya
-// password:- Satendraarya1234
-//MongoDB URL:- mongodb+srv://satendraarya:<password>@cluster0.vzrovi2.mongodb.net/?retryWrites=true&w=majority
-
-// Now Mongodb Project Name:- E-Comm-Web
