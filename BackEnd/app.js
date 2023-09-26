@@ -17,7 +17,9 @@ mongoose
     app.listen(8080);
     console.log("Database is connected! Listening to localhost 8080");
   })
-  .catch((err) => console.log(err));
+  .catch(err) 
+
+  
 
 
 
